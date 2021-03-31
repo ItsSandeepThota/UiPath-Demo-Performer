@@ -4021,9 +4021,9 @@
     "restore": {
       "projectUniqueName": "UiPath Demo-Performer",
       "projectName": "UiPath Demo-Performer",
-      "projectPath": "C:\\Users\\HP\\Documents\\UiPath\\UiPath Demo-Performer\\.local",
+      "projectPath": "C:\\Users\\HP\\Documents\\UiPath\\UiPath Demo-Performer\\UiPath-Demo-Performer\\.local",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\UiPath\\UiPath Demo-Performer\\.local"
+      "outputPath": "C:\\Users\\HP\\Documents\\UiPath\\UiPath Demo-Performer\\UiPath-Demo-Performer\\.local"
     },
     "frameworks": {
       "net461": {
